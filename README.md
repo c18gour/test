@@ -2,5 +2,5 @@
 
 Ασφάλεια και ιδιωτικότητα στο διαδίκτυο
 
-[Συνεργατικές εφαρμογές](https://github.com/courses-ionio/msc)
+[Συνεργατικές εφαρμογές](https://c18gour.github.io/resume-cv/)
 
